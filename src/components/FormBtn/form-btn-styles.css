@@ -1,0 +1,19 @@
+.form-btn{
+    width: 125px;
+    padding:12px 16px;
+    border-radius: 24px;
+    font-weight: 500;
+    border:0;
+    background-color: #877EED;
+    cursor: pointer;
+    transition: all .25s ease-in-out;
+}
+
+.form-btn:hover{
+    background-color:#544acb ;
+}
+
+.form-btn p{
+    margin: 0;
+    color: #fff;
+}
